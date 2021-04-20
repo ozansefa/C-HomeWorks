@@ -1,0 +1,7 @@
+0 Osman 
+0 Ali 
+1 Fatma 
+1 Ayse 
+1 Zeynep
+1 Ali
+2 Mehmet	
